@@ -5,7 +5,7 @@
 </div>
 
 # Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MicrocontrollersDev)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MicrocontrollersDev&count_private=true&show_icons=true&theme=gotham)
 
 # Random Bullshit
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
