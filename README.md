@@ -1,6 +1,11 @@
 <div align="center">
   
 # Microcontrollers
+
+# Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MicrocontrollersDev)](https://github.com/anuraghazra/github-readme-stats)
+
+# Random Bullshit
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ages-20-30.svg)](https://forthebadge.com)
