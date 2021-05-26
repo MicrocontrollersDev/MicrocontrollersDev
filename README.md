@@ -6,7 +6,7 @@
 
 # My Favorite Anime
 
-Is Itadaki Seiki
+Is Itadaki Seieki
 
 # My Favorite Manga
 
