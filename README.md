@@ -6,14 +6,16 @@
 
 # My Favorite Anime
 
-Is Itadaki Seieki
+is Itadaki Seieki
 
 # My Favorite Manga
 
-Is Metamorphosis
+is Metamorphosis
 
 # Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MicrocontrollersDev&count_private=true&show_icons=true&theme=gotham)
+
+Note: This means nothing since I just commit spam.
 
 # Random Bullshit
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
