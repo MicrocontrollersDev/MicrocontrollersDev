@@ -48,3 +48,7 @@ Note: This means nothing since I just commit spam.
 [![forthebadge](https://forthebadge.com/images/badges/reading-6th-grade-level.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
+
+# Funny Profile Views Counter
+
+<img src="https://moe-counter.glitch.me/get/@MicrocontrollersDev?theme=asoul" alt="profile view counter"/>
