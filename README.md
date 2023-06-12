@@ -4,6 +4,14 @@
 
 </div>
 
+# What I do
+
+- Legacy (1.8.9) Forge mods
+- Latest version Fabric mods
+- Professional README editor
+- SkyClient gave me admin perms
+- Used to be on the W-OVERFLOW team (https://woverflow.cc/#credits)
+
 # My Favorite Anime
 
 is Itadaki Seieki
