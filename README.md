@@ -8,9 +8,10 @@
 
 - Legacy (1.8.9) Forge mods
 - Latest version Fabric mods
+- My mods can be found at [Modrinth](https://modrinth.com/user/Microcontrollers)
 - Professional README editor
-- SkyClient gave me admin perms
-- Used to be on the W-OVERFLOW team (https://woverflow.cc/#credits)
+- [SkyClient](https://skyclient.co) gave me admin perms
+- Used to be on the [W-OVERFLOW team](https://woverflow.cc/#credits)
 
 # My Favorite Anime
 
