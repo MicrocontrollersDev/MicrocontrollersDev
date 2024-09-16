@@ -13,20 +13,16 @@
 - [SkyClient](https://skyclient.co) gave me admin perms
 - Used to be on the [W-OVERFLOW team](https://woverflow.cc/#credits)
 
-# My Favorite Anime
+# Codeberg
 
-is Itadaki Seieki
-
-# My Favorite Manga
-
-is Metamorphosis
+- Most of my repositories have been moved to [Codeberg](https://codeberg.org/MicrocontrollersDev), and all of my future projects will be there as well
 
 # Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MicrocontrollersDev&count_private=true&show_icons=true&theme=gotham)
 
 Note: This means nothing since I just commit spam.
 
-# Random Bullshit
+# Random Stuff
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/ages-20-30.svg)](https://forthebadge.com)
