@@ -1,9 +1,3 @@
-<div align="center">
-  
-# Microcontrollers
-
-</div>
-
 # What I do
 
 - Legacy (1.8.9) Forge mods
