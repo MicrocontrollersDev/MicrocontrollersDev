@@ -20,7 +20,6 @@ Note: This means nothing since I just commit spam.
 
 [![microcontrollers-Sharable-Profile)-Horizontal](https://github.com/user-attachments/assets/1a0eeb00-860f-4966-9751-5cbf96e66d3a)](https://ko-fi.com/microcontrollers)
 
-
 # Random Stuff
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/60-percent-of-the-time-works-every-time.svg)](https://forthebadge.com)
