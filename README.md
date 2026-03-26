@@ -46,4 +46,4 @@ Note: This means nothing since I just commit spam.
 
 # Funny Profile Views Counter
 
-<img src="https://moe-counter.glitch.me/get/@MicrocontrollersDev?theme=asoul" alt="profile view counter"/>
+<img src="https://count.getloli.com/get/@MicrocontrollersDev?theme=asoul" alt="profile view counter"/>
