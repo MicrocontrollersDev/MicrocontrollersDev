@@ -9,7 +9,7 @@
 
 # Codeberg
 
-- Most of my repositories have been moved to [Codeberg](https://codeberg.org/MicrocontrollersDev), and all of my future projects will be there as well
+- Almost all of my repositories have been moved to [Codeberg](https://codeberg.org/MicrocontrollersDev), and all of my future projects will be there as well
 
 # Stats
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=MicrocontrollersDev&count_private=true&show_icons=true&theme=gotham)
